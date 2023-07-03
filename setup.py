@@ -1,12 +1,3 @@
-# setup.py
-# The setup.py file contains all the table 
-# creation for the Psyche Evaluation program
-# also creates the View objects for each personality
-# Author: Joseph Ellis
-# Email: joellis@chapman.edu
-# Course: CPSC 408
-# Assignment: Final Project
-
 import mysql.connector
 mydb = mysql.connector.connect(host="localhost",
 user="root",
