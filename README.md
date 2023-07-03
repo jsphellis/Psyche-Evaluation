@@ -5,7 +5,7 @@
 ## References:
 
 * https://www.simplypsychology.org/big-five-personality.html#:~:text=The%20Big%20Five%20personality%20traits,throughout%20most%20of%20one's%20lifetime.
-* chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://sites.temple.edu/rtassessment/files/2018/10/Table_BFPT.pdf
+* https://sites.temple.edu/rtassessment/files/2018/10/Table_BFPT.pdf
 * https://www.decision-making-confidence.com/narcissistic-personality-inventory.html
 
 ## Build Instructions:
