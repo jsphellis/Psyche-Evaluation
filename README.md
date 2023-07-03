@@ -15,7 +15,8 @@
     * pip install xlwt
     * pip install pandas
 
-* python setup.py (Only if the database, schemas, and views have not been generated)
+* Follow import process to import PsycheDatabaseDump into your SQL account
+* Change SQL information at beginning of app.py to match your account information
 * python app.py
 
 

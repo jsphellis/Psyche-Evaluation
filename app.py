@@ -6,12 +6,12 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-mydb = mysql.connector.connect(host="localhost",
-user="root",
-password="M4nchester76",
+mydb = mysql.connector.connect(host="<your host here>",
+user="<your user here>",
+password="<your password here>",
 auth_plugin='mysql_native_password',
 database="Psyche")
-con=connect(user="root",password="M4nchester76",host="localhost",database="Psyche")
+con=connect(user="<your user here>",password="<your password here>",host="<your host here>",database="Psyche")
 
 mycursor = mydb.cursor()
 
