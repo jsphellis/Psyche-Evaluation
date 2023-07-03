@@ -1,16 +1,3 @@
-#%%
-# app.py
-# The app.py file is where all of the functions 
-# that make up the ways the users can interact
-# with the Psyche database can be found.
-# Functions include varying queries into the Database 
-# in different ways, pulling out aggregations of results 
-# and information about the personalities and tests themselves.
-# Author: Joseph Ellis
-# Email: joellis@chapman.edu
-# Course: CPSC 408
-# Assignment: Final Project
-
 import mysql.connector
 from pymysql import* 
 import xlwt 
